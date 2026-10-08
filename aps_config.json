@@ -1,0 +1,8 @@
+{
+  "model": "XGBoost",
+  "threshold_cost_optimal": 0.14,
+  "threshold_f1_optimal": 0.82,
+  "cost_fp": 10,
+  "cost_fn": 500,
+  "random_state": 42
+}
